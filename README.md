@@ -14,6 +14,6 @@ Desafío de una pequeña app de consola, haciendo uso de la API gutendex para tr
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tuusuario/guentex-book-explorer.git
+   git clone https://github.com/Julieht08/desafio_gutendex-API.git
    cd desafio_gutendex_API
    ```
